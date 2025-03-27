@@ -208,6 +208,3 @@ else:  # Video processing
     else:
         st.info("Please upload a video.")
 
-# Footer
-st.sidebar.markdown("---")
-# st.sidebar.markdown("Made by Saket Gudimella")
