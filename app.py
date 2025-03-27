@@ -1,3 +1,4 @@
+!pip install streamlit torch ultralytics pillow supervision opencv-python-headless numpy
 import streamlit as st
 import torch
 from ultralytics import YOLO
